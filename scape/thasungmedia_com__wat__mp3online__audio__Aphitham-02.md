@@ -1,0 +1,52 @@
+---
+id: thasungmedia_com__wat__mp3online__audio__Aphitham-02
+title: Aphitham-02
+href: http://thasungmedia.com/wat/mp3online/audio/Aphitham-02.html
+createdAt: 2024-11-22T06:05:44.650Z
+---
+
+## เล่มที่ 35 พระอภิธรรมปิฎก วิภังคปกรณ์
+
+- [1 ขันธวิภังค์ ตอนที่ ๑](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%91%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%91.mp3)
+- [2 ขันธวิภังค์ ตอนที่ ๒](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%92%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%92.mp3)
+- [3 ขันธวิภังค์ ตอนที่ ๓](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%93%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%93.mp3)
+- [4 ขันธวิภังค์ ตอนที่ ๔](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%94%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%94.mp3)
+- [5 ขันธวิภังค์ ตอนที่ ๕](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%95%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%95.mp3)
+- [6 ขันธวิภังค์ ตอนที่ ๖](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%96%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%96.mp3)
+- [7 ขันธวิภังค์ ตอนที่ ๗](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%97%20%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%97.mp3)
+- [8 อายตนวิภังค์](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%98%20%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%91.mp3)
+- [9 ธาตุวิภังค์](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%90%E0%B9%99%20%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C.mp3)
+- [10 สัจจวิภังค์ ตอนที่ ๑](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%91%E0%B9%90%20%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%91.mp3)
+- [11 สัจจวิภังค์ ตอนที่ ๒](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%91%E0%B9%91%20%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%92.mp3)
+- [12 สัจจวิภังค์ ตอนที่ ๓](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%91%E0%B9%92%20%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B9%93.mp3)
+- [13 อินทริยวิภังค์](https://ia800304.us.archive.org/18/items/pinthavong_yahoo_20150310/%E0%B9%91%E0%B9%93%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C.mp3)
+- [14 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/14%20Abdham%20Book%202.mp3)
+- [15 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/15%20Abdham%20Book%202.mp3)
+- [16 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/16%20Abdham%20Book%202.mp3)
+- [17 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๔](https://ia600305.us.archive.org/1/items/09AbdhamBook2/17%20Abdham%20Book%202.mp3)
+- [18 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๕](https://ia600305.us.archive.org/1/items/09AbdhamBook2/18%20Abdham%20Book%202.mp3)
+- [19 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๖](https://ia600305.us.archive.org/1/items/09AbdhamBook2/19%20Abdham%20Book%202.mp3)
+- [20 ปฏิจจสมุปปาทวิภังค์ ตอนที่ ๗](https://ia600305.us.archive.org/1/items/09AbdhamBook2/20%20Abdham%20Book%202.mp3)
+- [21 สติปัฏฐานวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/21%20Abdham%20Book%202.mp3)
+- [22 สติปัฏฐานวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/22%20Abdham%20Book%202.mp3)
+- [23 สติปัฏฐานวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/23%20Abdham%20Book%202.mp3)
+- [24 สติปัฏฐานวิภังค์ ตอนที่ ๔](https://ia600305.us.archive.org/1/items/09AbdhamBook2/24%20Abdham%20Book%202.mp3)
+- [25 สติปัฏฐานวิภังค์ ตอนที่ ๕](https://ia600305.us.archive.org/1/items/09AbdhamBook2/25%20Abdham%20Book%202.mp3)
+- [26 ฌานวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/26%20Abdham%20Book%202.mp3)
+- [27 ฌานวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/27%20Abdham%20Book%202.mp3)
+- [28 ฌานวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/28%20Abdham%20Book%202.mp3)
+- [29 อัปปมัญญาวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/29%20Abdham%20Book%202.mp3)
+- [30 อัปปมัญญาวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/30%20Abdham%20Book%202.mp3)
+- [31 อัปปมัญญาวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/31%20Abdham%20Book%202.mp3)
+- [32 ปฏิสัมภิทาวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/32%20Abdham%20Book%202.mp3)
+- [33 ปฏิสัมภิทาวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/33%20Abdham%20Book%202.mp3)
+- [34 ปฏิสัมภิทาวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/34%20Abdham%20Book%202.mp3)
+- [35 ปฏิสัมภิทาวิภังค์ ตอนที่ ๔](https://ia600305.us.archive.org/1/items/09AbdhamBook2/35%20Abdham%20Book%202.mp3)
+- [36 ขุททกวัตถุวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/36%20Abdham%20Book%202.mp3)
+- [37 ขุททกวัตถุวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/37%20Abdham%20Book%202.mp3)
+- [38 ขุททกวัตถุวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/38%20Abdham%20Book%202.mp3)
+- [39 ขุททกวัตถุวิภังค์ ตอนที่ ๔](https://ia600305.us.archive.org/1/items/09AbdhamBook2/39%20Abdham%20Book%202.mp3)
+- [40 ขุททกวัตถุวิภังค์ ตอนที่ ๕](https://ia600305.us.archive.org/1/items/09AbdhamBook2/40%20Abdham%20Book%202.mp3)
+- [41 ธัมมาหทยวิภังค์ ตอนที่ ๑](https://ia600305.us.archive.org/1/items/09AbdhamBook2/41%20Abdham%20Book%202.mp3)
+- [42 ธัมมาหทยวิภังค์ ตอนที่ ๒](https://ia600305.us.archive.org/1/items/09AbdhamBook2/42%20Abdham%20Book%202.mp3)
+- [43 ธัมมาหทยวิภังค์ ตอนที่ ๓](https://ia600305.us.archive.org/1/items/09AbdhamBook2/43%20Abdham%20Book%202.mp3)

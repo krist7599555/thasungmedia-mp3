@@ -1,0 +1,9 @@
+Bun from 'bun'
+type { BunFile } from 'bun'
+{ url2id } from './url2id.civet'
+
+export memofile = (url: string, filetype: ".md") => Bun.file(`./scape/${url2id(url)}${filetype}`)
+export writefile := (file: BunFile, mode: "force" | "cache", content: () => string | Promise<string>) =>
+  if mode === "force" || not (file.exists() |> await)
+    content() |> await |> Bun.write(file, .)
+  return file

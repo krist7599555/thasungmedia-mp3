@@ -1,0 +1,11 @@
+export url2id := &: string
+  // ||> console.log
+  |> .replace(/\.html/, '')
+  |> .replace(/https?:\/\//, '')
+  |> .replaceAll("/", '__')
+  |> .replaceAll(".", '_')
+  
+export url2filename := &: string
+  |> url2id(.)
+  |> .split('__')
+  |> .at(-1)

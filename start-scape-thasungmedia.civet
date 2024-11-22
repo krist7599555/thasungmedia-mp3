@@ -1,0 +1,85 @@
+* as Cheerio from cheerio
+{ url2id, url2filename } from ./url2id.civet
+{ writefile, memofile } from ./writefile.civet
+
+cleanstr := (&: string)
+  .trim()
+  .replaceAll(/\s+/g, ' ')
+
+cheerioLoadHtml := (&: string)
+  |> fetch(.) |> await |> .text() |> await |> Cheerio.load(.) |> await
+
+export scapeThasungmediaIndex := (url: "http://thasungmedia.com/wat/mp3online/index.php") =>
+  return unless url is 'http://thasungmedia.com/wat/mp3online/index.php'
+  return writefile memofile(url, '.md'), "force", =>
+    $ := cheerioLoadHtml url |> await
+    md := $('.eg-bar, .icongroup1 img')
+      |> .map (_, el) =>
+        text := $(el).text() |> cleanstr
+        switch el
+          {name: "div"}
+            `\n## ${text}\n`
+          {name: 'img', attribs: { src }}
+            isH3 := src.endsWith('/iconforum2.gif')
+            text := $(el).parent().text() |> cleanstr
+            href := $(el).parent().find('a').attr('href')
+              |> (i) => i ? new URL(i, url).href : ''
+            [
+              isH3 ? '\n###' : '-',
+              href ? `[${text}](${href})` : `${text}`
+              isH3 ? '\n' : '',
+            ].join(' ') if text
+            
+      |> .toArray()
+      |> (arr) => [
+        '---',
+        `id: ${url2id(url)}`,
+        `title: ${url2filename(url)}`,
+        `href: ${url}`,
+        `createdAt: ${new Date().toISOString()}`,
+        '---']
+          .concat(arr, '')
+          .join('\n')
+          .replaceAll(/\n{3,}/g, '\n\n')
+      ||> console.log
+    return md
+
+
+
+export scapeThasungmediaAudio := (url: string) =>
+  return unless url.startsWith('http://thasungmedia.com/wat/mp3online/audio/')
+  return writefile memofile(url, '.md'), "cache", =>
+    $ := cheerioLoadHtml url |> await
+    md := $('ul')
+      |> .contents()
+      |> .map (_, el) =>
+        switch el
+          { type: 'text' }
+            $(el).text()
+              |> cleanstr
+              |> (h2) => h2 ? `\n## ${h2}\n` : undefined
+          { type: 'tag', name: 'li', attribs: { "data-srces": src } }
+            title := $(el).text() |> cleanstr |> .replace(/^(\d+)\s*\.\s*/, '$1.')
+            `- [${title}](${new URL(src, url).href})`
+      |> .toArray()
+      |> (arr) => [
+        '---',
+        `id: ${url2id(url)}`,
+        `title: ${url2filename(url)}`,
+        `href: ${url}`,
+        `createdAt: ${new Date().toISOString()}`,
+        '---']
+          .concat(arr, '')
+          .join('\n')
+
+
+urls := scapeThasungmediaIndex("http://thasungmedia.com/wat/mp3online/index.php")
+  |> await
+  |> .text()
+  |> await
+  |> .matchAll(/\[.+\]\((http.+\/.+)\)/g)
+  |> .toArray()
+  |> .map .at(1)
+
+for url of urls
+  scapeThasungmediaAudio url

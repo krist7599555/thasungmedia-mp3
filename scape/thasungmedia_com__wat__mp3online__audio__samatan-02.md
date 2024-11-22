@@ -1,0 +1,37 @@
+---
+id: thasungmedia_com__wat__mp3online__audio__samatan-02
+title: samatan-02
+href: http://thasungmedia.com/wat/mp3online/audio/samatan-02.html
+createdAt: 2024-11-22T06:05:45.003Z
+---
+- [บวงสรวงและชุมนุมเทวดา](http://thasungmedia.com/wat/kitti/pry_1100.mp3)
+- [นมัสการพระรัตนตรัย](http://thasungmedia.com/wat/kitti/namusakan.mp3)
+- [สมาทานศีล 8](http://thasungmedia.com/wat/kitti/seel8.mp3)
+- [ขอขมาพระรัตนตรัย (พิเศษ)](http://thasungmedia.com/wat/kitti/khokhama2.mp3)
+- [สมาทานพระกรรมฐาน](http://thasungmedia.com/wat/kitti/smatamkumatan.mp3)
+- [บวงสรวง, ศีล 8, สมาทานกรรมฐาน, คำสอน (แบบรวม)](http://thasungmedia.com/wat/kitti/buangsroung-khokhama-seel8-samatan.mp3)
+- [อุทิศส่วนกุศล](http://thasungmedia.com/wat/kitti/utisuangusul.mp3)
+- [ตอน 1. การตัดกังวล](http://thasungmedia.com/wat/kitti/Kammathan/001.mp3)
+- [ตอน 2. การตัดนิวรณ์](http://thasungmedia.com/wat/kitti/Kammathan/002.mp3)
+- [ตอน 3. ทรงสัจจะเพื่อสมาธิ](http://thasungmedia.com/wat/kitti/Kammathan/003.mp3)
+- [ตอน 4. กำหนดรู้ลมหายใจเข้าออก](http://thasungmedia.com/wat/kitti/Kammathan/004.mp3)
+- [ตอน 5. อาการปีติ](http://thasungmedia.com/wat/kitti/Kammathan/005.mp3)
+- [ตอน 6. อารมณ์ฌาน, พระโสดาบัน](http://thasungmedia.com/wat/kitti/Kammathan/006.mp3)
+- [ตอน 7. อารมณ์ฌาน 2, พระอนาคามี](http://thasungmedia.com/wat/kitti/Kammathan/007.mp3)
+- [ตอน 8. หัวใจของการเจริญพระกรรมฐาน](http://thasungmedia.com/wat/kitti/Kammathan/008.mp3)
+- [ตอน 9. อารมณ์ฌาน 3](http://thasungmedia.com/wat/kitti/Kammathan/009.mp3)
+- [ตอน 10. อริยสัจ 4](http://thasungmedia.com/wat/kitti/Kammathan/010.mp3)
+- [ตอน 11. ศรัทธาจริต, พุทธจริต](http://thasungmedia.com/wat/kitti/Kammathan/011.mp3)
+- [ตอน 12 อริยสัจ 4, อุปสมานุสติ](http://thasungmedia.com/wat/kitti/Kammathan/012.mp3)
+- [ตอน 13. กายคตานุสติ](http://thasungmedia.com/wat/kitti/Kammathan/013.mp3)
+- [ตอน 14. มรณานุสติ](http://thasungmedia.com/wat/kitti/Kammathan/014.mp3)
+- [ตอน 15. อานาปานุสติ](http://thasungmedia.com/wat/kitti/Kammathan/015.mp3)
+- [ตอน 16. พุทธานุสติ เบื้องต้น](http://thasungmedia.com/wat/kitti/Kammathan/016.mp3)
+- [ตอน 17. พุทธานุสติ สมาบัติ 8](http://thasungmedia.com/wat/kitti/Kammathan/017.mp3)
+- [ตอน 18. โทษของกามฉันทะ](http://thasungmedia.com/wat/kitti/Kammathan/018.mp3)
+- [ตอน 19. พุทธานุสติ - โลกุตระ](http://thasungmedia.com/wat/kitti/Kammathan/019.mp3)
+- [ตอน 20. สรุปอารมณ์สมาธิหาข้อบกพร่อง](http://thasungmedia.com/wat/kitti/Kammathan/020.mp3)
+- [ตอน 21. การปฏิบัติเข้าสู่ พระโสดาบัน](http://thasungmedia.com/wat/kitti/Kammathan/021.mp3)
+- [ตอน 22. การปฏิบัติเข้าสู่ พระสกิทาคามี](http://thasungmedia.com/wat/kitti/Kammathan/022.mp3)
+- [ตอน 23. การปฏิบัติเข้าสู่ พระอานาคามี](http://thasungmedia.com/wat/kitti/Kammathan/023.mp3)
+- [ตอน 24. การปฏิบัติเข้าสู่ พระอรหัตผล](http://thasungmedia.com/wat/kitti/Kammathan/024.mp3)

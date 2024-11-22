@@ -1,0 +1,83 @@
+---
+id: thasungmedia_com__wat__mp3online__audio__kamsorn-watthasung__kumathan40
+title: kumathan40
+href: http://thasungmedia.com/wat/mp3online/audio/kamsorn-watthasung/kumathan40.html
+createdAt: 2024-11-22T06:05:45.006Z
+---
+
+## หลวงพ่อสอนกรรมฐาน 40 ตาม "คัมภีร์วิสุทธิมรรค"
+
+- [ประวัติ พระพุทธโฆษาจารย์](http://apithamsrisudaram.com/sound/visutimat/V00_P(09).mp3)
+- [สารัตถวิจารณ์](http://apithamsrisudaram.com/sound/visutimat/V00_P(19).mp3)
+- [นิทานกถา : ปัญหาพยากรณ์](http://apithamsrisudaram.com/sound/visutimat/V00_P0001.mp3)
+
+## ค. กรรมฐาน 40 (1-18)
+
+- [01.กสิณ 10](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/01.%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%93%2010.mp3)
+- [02.กสิณ 10](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/02.%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%93%2010.mp3)
+- [03.อสุภกรรมฐาน 10](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/03.%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2010.mp3)
+- [04.อสุภกรรมฐาน 10](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/04.%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2010.mp3)
+- [05.พุทธานุสติ, ธัมมานุสติ, สังฆานุสสติ-ด้านสมถะ](http://thasungmedia.com/wat/kitti/kumathan40_05.mp3)
+- [06.พุทธานุสติ, ธัมมานุสติ, สังฆานุสสติ-ด้านวิปัสสนา](http://thasungmedia.com/wat/kitti/kumathan40_06.mp3)
+- [07.สีลานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/07.%E0%B8%AA%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [08.จาคานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/08.%E0%B8%88%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [09.เทวตานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/09.%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [10.มรณานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/10.%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [11.กายคตานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/11.%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [12.อุปสมานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/12.%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [13.อานาปานุสสติกรรมฐาน](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/13.%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99.mp3)
+- [14.สรุปอนุสสติ 10](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/14.%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%AA%E0%B8%95%E0%B8%B4%2010.mp3)
+- [15.อาหาเรปฏิกูลสัญญา](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/15.%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%81%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2.mp3)
+- [16.จตุธาตุววัตถาน 4](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/16.%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B2%E0%B8%99%204.mp3)
+- [17.พรหมวิหาร 4](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/17.%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%204.mp3)
+- [18.อรูปฌาณ 4](http://www.tamma.info/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%B3/64kbps/%E0%B8%84.%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%90%E0%B8%B2%E0%B8%99%2040/18.%E0%B8%AD%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%8C%E0%B8%B2%E0%B8%93%204.mp3)
+
+## กรรมฐาน 40 (Link 2)
+
+- [01.กสิณ 10](https://ia802709.us.archive.org/23/items/01Meditation40/01Meditation40_64kb.mp3)
+- [02.กสิณรวม](https://ia802606.us.archive.org/31/items/02Meditation40/02Meditation40_64kb.mp3)
+- [03.อสุภกรรมฐาน 10](https://ia902604.us.archive.org/17/items/030003Meditation40/030003Meditation40_64kb.mp3)
+- [04.อสุภกรรมฐาน 10](https://ia801407.us.archive.org/35/items/030004Meditation40/030004Meditation40_64kb.mp3)
+- [05.พุทธานุสติ, ธัมมานุสติ, สังฆานุสสติกรรมฐาน-ด้านสมถะ](https://ia902700.us.archive.org/11/items/030005Meditation40/030005Meditation40_64kb.mp3)
+- [06.พุทธานุสติ, ธัมมานุสติ, สังฆานุสสติกรรมฐาน-ด้านวิปัสสนา](https://ia802704.us.archive.org/14/items/030006Meditation40/030006Meditation40_64kb.mp3)
+- [07.สีลานุสสติกรรมฐาน](https://ia600301.us.archive.org/30/items/030007Meditation40/030007Meditation40_64kb.mp3)
+- [08.จาคานุสสติกรรมฐาน](https://ia801407.us.archive.org/19/items/030008Meditation40/030008Meditation40_64kb.mp3)
+- [09.เทวตานุสสติกรรมฐาน](https://ia902605.us.archive.org/35/items/030009Meditation40/030009Meditation40_64kb.mp3)
+- [10.มรณานุสสติกรรมฐาน](https://ia801406.us.archive.org/16/items/030010Meditation40/030010Meditation40_64kb.mp3)
+- [11.กายคตานุสสติกรรมฐาน](https://ia802705.us.archive.org/31/items/030011Meditation40/030011Meditation40_64kb.mp3)
+- [12.อุปสมานุสสติกรรมฐาน](https://ia801409.us.archive.org/2/items/030012Meditation40/030012Meditation40_64kb.mp3)
+- [13.อานาปานุสสติกรรมฐาน](https://ia902606.us.archive.org/11/items/030013Meditation40/030013Meditation40_64kb.mp3)
+- [14.สรุปอนุสสติ 10](https://ia902703.us.archive.org/1/items/030014Meditation40/030014Meditation40_64kb.mp3)
+- [15.อาหาเรปฏิกูลสัญญา](https://ia902703.us.archive.org/8/items/030015Meditation40/030015Meditation40_64kb.mp3)
+- [16.จตุธาตุววัตถาน 4](https://ia902700.us.archive.org/13/items/030016Meditation40/030016Meditation40_64kb.mp3)
+- [17.พรหมวิหาร 4](https://ia801409.us.archive.org/5/items/030017Meditation40/030017Meditation40_64kb.mp3)
+- [18.อรูปฌาณ 4](https://ia601407.us.archive.org/25/items/030018Meditation40/030018Meditation40_64kb.mp3)
+
+## กรรมฐาน 40 สอนพระในพรรษา 2517 ที่ตึกเสริมศรี วัดท่าซุง (ขอสงวนตามกฎหมายลิขสิทธิ์)
+
+- [1.กรรมฐาน 40 2517 1-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/001-1A.mp3)
+- [2.กรรมฐาน 40 2517 1-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/002-1B.mp3)
+- [3.กรรมฐาน 40 2517 2-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/003-2A.mp3)
+- [4.กรรมฐาน 40 2517 2-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/004-2B.mp3)
+- [5.กรรมฐาน 40 2517 3-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/005-3A.mp3)
+- [6.กรรมฐาน 40 2517 3-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/006-3B.mp3)
+- [7.กรรมฐาน 40 2517 4-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/007-4A.mp3)
+- [8.กรรมฐาน 40 2517 4-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/008-4B.mp3)
+- [9.กรรมฐาน 40 2517 5-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/009-5A.mp3)
+- [10.กรรมฐาน 40 2517 5-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/010-5B.mp3)
+- [11.กรรมฐาน 40 2517 6-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/011-6A.mp3)
+- [12 กรรมฐาน 40 2517 6-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/012-6B.mp3)
+- [13.กรรมฐาน 40 2517 7-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/013-7A.mp3)
+- [14.กรรมฐาน 40 2517 7-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/014-7B.mp3)
+- [15.กรรมฐาน 40 2517 8-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/015-8A.mp3)
+- [16.กรรมฐาน 40 2517 8-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/016-8B.mp3)
+- [17.กรรมฐาน 40 2517 9-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/017-9A.mp3)
+- [18.กรรมฐาน 40 2517 9-B](http://thasungmedia.com/wat/kitti/Bmp3/kumathan40-2517/018-9B.mp3)
+- [19.กรรมฐาน 40 2517 10-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/019-10A.mp3)
+- [20.กรรมฐาน 40 2517 10-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/020-10B.mp3)
+- [21 กรรมฐาน 40 2517 11-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/021-11A.mp3)
+- [22.กรรมฐาน 40 2517 11-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/022-11B.mp3)
+- [23.กรรมฐาน 40 2517 12-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/023-12A.mp3)
+- [24.กรรมฐาน 40 2517 12-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/024-12B.mp3)
+- [25.กรรมฐาน 40 2517 13-A](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/025-13A.mp3)
+- [26.กรรมฐาน 40 2517 13-B](http://thasungmedia.com/wat/kitti/mp3/kumathan40-2517/026-13B.mp3)

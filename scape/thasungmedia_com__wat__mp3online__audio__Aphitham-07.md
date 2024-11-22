@@ -1,0 +1,53 @@
+---
+id: thasungmedia_com__wat__mp3online__audio__Aphitham-07
+title: Aphitham-07
+href: http://thasungmedia.com/wat/mp3online/audio/Aphitham-07.html
+createdAt: 2024-11-22T06:05:44.774Z
+---
+
+## เล่มที่ 40 พระอภิธรรมปิฎก มหาปัฏฐานปกรณ์ ภาค ๑
+
+- [01 ปฏิจจาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/01%20%20Abhidharma-B%207.mp3)
+- [02 สหชาตวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/02%20%20Abhidharma-B%207.mp3)
+- [03 ปัจจยวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/03%20%20Abhidharma-B%207.mp3)
+- [04 นิสสยวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/04%20%20Abhidharma-B%207.mp3)
+- [05 สังสัฏฐวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/05%20%20Abhidharma-B%207.mp3)
+- [06 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/06%20%20Abhidharma-B%207.mp3)
+- [07 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/07%20%20Abhidharma-B%207.mp3)
+- [08 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/08%20%20Abhidharma-B%207.mp3)
+- [09 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/09%20%20Abhidharma-B%207.mp3)
+- [10 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/10%20%20Abhidharma-B%207.mp3)
+- [11 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/11%20%20Abhidharma-B%207.mp3)
+- [12 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/12%20%20Abhidharma-B%207.mp3)
+- [13 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/13%20%20Abhidharma-B%207.mp3)
+- [14 มหาปัฏฐานปกรณ์ ภาค ๑](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/14%20%20Abhidharma-B%207.mp3)
+- [15 ปัจจยานุโลม](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/15%20%20Abhidharma-B%207.mp3)
+- [16 ปัจจยานุโลม](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/16%20%20Abhidharma-B%207.mp3)
+- [17 อินทรียปัจจัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/17%20%20Abhidharma-B%207.mp3)
+- [18 สังขยาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/18%20%20Abhidharma-B%207.mp3)
+- [19 ฌานสภาคนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/19%20%20Abhidharma-B%207.mp3)
+- [20 ปัจจนียุทธาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/20%20%20Abhidharma-B%207.mp3)
+- [21 นปุเรชาตทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/21%20%20Abhidharma-B%207.mp3)
+- [22 ปัจจยานุโลมปัจจนียะ](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/22%20%20Abhidharma-B%207.mp3)
+- [23 อนันตรทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/23%20%20Abhidharma-B%207.mp3)
+- [24 อุปนิสสยทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/24%20%20Abhidharma-B%207.mp3)
+- [25 นิสสยทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/25%20%20Abhidharma-B%207.mp3)
+- [26 วิปากทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/26%20%20Abhidharma-B%207.mp3)
+- [27 อินทรียทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/27%20%20Abhidharma-B%207.mp3)
+- [28 มัคคทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/28%20%20Abhidharma-B%207.mp3)
+- [29 อัตถิทุกนัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/29%20%20Abhidharma-B%207.mp3)
+- [30 ปัจจยปัจจยานุโลม](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/30%20%20Abhidharma-B%207.mp3)
+- [31 ปฏิจจวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/31%20%20Abhidharma-B%207.mp3)
+- [32 สหชาตวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/32%20%20Abhidharma-B%207.mp3)
+- [33 สังขยาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/33%20%20Abhidharma-B%207.mp3)
+- [34 วิปากติกะ](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/34%20%20Abhidharma-B%207.mp3)
+- [35 ปัจจยวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/35%20%20Abhidharma-B%207.mp3)
+- [36 ปัญหาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/36%20%20Abhidharma-B%207.mp3)
+- [37 สังขยาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/37%20%20Abhidharma-B%207.mp3)
+- [38 อุปาทินนติกะ](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/38%20%20Abhidharma-B%207.mp3)
+- [39 9สังขยาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/39%20%20Abhidharma-B%207.mp3)
+- [40 อัญญมัญญปัจจัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/40%20%20Abhidharma-B%207.mp3)
+- [41 อินทรียปัจจัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/41%20%20Abhidharma-B%207.mp3)
+- [42 สังขยาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/42%20%20Abhidharma-B%207.mp3)
+- [43 อธิปติปัจจัย](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/43%20%20Abhidharma-B%207.mp3)
+- [44 สังขยาวาร](https://ia600306.us.archive.org/16/items/16AbhidharmaB7/44%20%20Abhidharma-B%207.mp3)

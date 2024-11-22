@@ -1,0 +1,53 @@
+---
+id: thasungmedia_com__wat__mp3online__audio__Aphitham-04
+title: Aphitham-04
+href: http://thasungmedia.com/wat/mp3online/audio/Aphitham-04.html
+createdAt: 2024-11-22T06:05:44.687Z
+---
+
+## เล่มที่ 37 พระอภิธรรมปิฎก กถาวัตถุปกรณ์
+
+- [01 มหาวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/01%20%20Abhidharma-B%204.mp3)
+- [02 กาลสัจฉิกัฏฐะ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/02%20%20Abhidharma-B%204.mp3)
+- [03 โอปัมมสังสันทนะ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/03%20%20Abhidharma-B%204.mp3)
+- [04 คติอนุโยคะ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/04%20%20Abhidharma-B%204.mp3)
+- [05 ปุริสการานุโยคะ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/05%20%20Abhidharma-B%204.mp3)
+- [06 ญาตกานุโยคาธิ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/06%20%20Abhidharma-B%204.mp3)
+- [07 ปริหานิกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/07%20%20Abhidharma-B%204.mp3)
+- [08 สุตตสาธนปริหานิ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/08%20%20Abhidharma-B%204.mp3)
+- [09 โอธิโสกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/09%20%20Abhidharma-B%204.mp3)
+- [10 กาลสังสันทนะ](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/10%20%20Abhidharma-B%204.mp3)
+- [11 อตีตญาณาทิกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/11%20%20Abhidharma-B%204.mp3)
+- [12 อตีตักขันธกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/12%20%20Abhidharma-B%204.mp3)
+- [13 ทุติยวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/13%20%20Abhidharma-B%204.mp3)
+- [14 สติปัฏฐานกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/14%20%20Abhidharma-B%204.mp3)
+- [15 อัญญาณกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/15%20%20Abhidharma-B%204.mp3)
+- [16 กังขากถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/16%20%20Abhidharma-B%204.mp3)
+- [17 วจีเภทกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/17%20%20Abhidharma-B%204.mp3)
+- [18 กุกกุฬกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/18%20%20Abhidharma-B%204.mp3)
+- [19 นิโรธกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/19%20%20Abhidharma-B%204.mp3)
+- [20 วิมุตติกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/20%20%20Abhidharma-B%204.mp3)
+- [21 สังวรกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/21%20%20Abhidharma-B%204.mp3)
+- [22 จตุตถวรรค คิหิสสอรหาติกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/22%20%20Abhidharma-B%204.mp3)
+- [23 อปราปิสมันนาคตกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/23%20%20Abhidharma-B%204.mp3)
+- [24 นิยามกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/24%20%20Abhidharma-B%204.mp3)
+- [25 สัจจกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/25%20%20Abhidharma-B%204.mp3)
+- [26 ทานกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/26%20%20Abhidharma-B%204.mp3)
+- [27 อัฏฐมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/27%20%20Abhidharma-B%204.mp3)
+- [28 ชีวิตินทริยกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/28%20%20Abhidharma-B%204.mp3)
+- [29 นวมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/29%20%20Abhidharma-B%204.mp3)
+- [30 นยจิตตัสสวาจาติกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/30%20%20Abhidharma-B%204.mp3)
+- [31 ทสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/31%20%20Abhidharma-B%204.mp3)
+- [32 ทวีหิสีเลหิกถา](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/32%20%20Abhidharma-B%204.mp3)
+- [33 เอกาทสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/33%20%20Abhidharma-B%204.mp3)
+- [34 ทวาทสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/34%20%20Abhidharma-B%204.mp3)
+- [35 เตรสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/35%20%20Abhidharma-B%204.mp3)
+- [36 จุททสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/36%20%20Abhidharma-B%204.mp3)
+- [37 ปัณณรสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/37%20%20Abhidharma-B%204.mp3)
+- [38 โสฬสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/38%20%20Abhidharma-B%204.mp3)
+- [39 สัตตรสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/39%20%20Abhidharma-B%204.mp3)
+- [40 อัฏฐารสมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/40%20%20Abhidharma-B%204.mp3)
+- [41 เอกูนวีสติวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/41%20%20Abhidharma-B%204.mp3)
+- [42 วีสติมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/42%20%20Abhidharma-B%204.mp3)
+- [43 เอกูนวีสติมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/43%20%20Abhidharma-B%204.mp3)
+- [44 พาวีสติมวรรค](https://ia800306.us.archive.org/16/items/27AbhidharmaB4/44%20%20Abhidharma-B%204.mp3)
